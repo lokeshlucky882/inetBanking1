@@ -1,0 +1,181 @@
+2021-07-08 18:26:36,378 [main] INFO com.inetBanking.testCases.Base - Hiiii
+2021-07-08 18:26:36,525 [main] INFO com.inetBanking.testCases.Base - Entered user name
+2021-07-08 18:26:36,634 [main] INFO com.inetBanking.testCases.Base - Entered password
+2021-07-08 18:26:39,037 [main] INFO com.inetBanking.testCases.Base - Clicked on Login button
+2021-07-08 18:28:34,402 [main] INFO com.inetBanking.testCases.Base - Hiiii
+2021-07-08 18:28:34,556 [main] INFO com.inetBanking.testCases.Base - Entered user name
+2021-07-08 18:28:34,686 [main] INFO com.inetBanking.testCases.Base - Entered password
+2021-07-08 18:28:36,767 [main] INFO com.inetBanking.testCases.Base - Clicked on Login button
+2021-07-08 18:30:13,516 [main] INFO eBanking - Hiiii
+2021-07-08 18:30:13,661 [main] INFO eBanking - Entered user name
+2021-07-08 18:30:13,776 [main] INFO eBanking - Entered password
+2021-07-08 18:30:15,273 [main] INFO eBanking - Clicked on Login button
+2021-07-08 19:23:51,311 [main] INFO eBanking - Hiiii
+2021-07-08 19:23:51,456 [main] INFO eBanking - Entered user name
+2021-07-08 19:23:51,572 [main] INFO eBanking - Entered password
+2021-07-08 19:23:53,346 [main] INFO eBanking - Clicked on Login button
+2021-07-08 19:53:18,843 [main] INFO eBanking - Hiiii
+2021-07-08 19:53:19,002 [main] INFO eBanking - Entered user name
+2021-07-08 19:53:19,108 [main] INFO eBanking - Entered password
+2021-07-08 19:53:21,739 [main] INFO eBanking - Clicked on Login button
+2021-07-08 19:54:08,471 [main] INFO eBanking - Hiiii
+2021-07-08 19:54:08,586 [main] INFO eBanking - Entered user name
+2021-07-08 19:54:08,627 [main] INFO eBanking - Entered password
+2021-07-08 19:54:12,125 [main] INFO eBanking - Clicked on Login button
+2021-07-08 21:11:03,574 [main] INFO eBanking - Hiiii
+2021-07-08 21:11:04,078 [main] INFO eBanking - Entered user name
+2021-07-08 21:11:04,309 [main] INFO eBanking - Entered password
+2021-07-08 21:11:06,178 [main] INFO eBanking - Clicked on Login button
+2021-07-08 21:12:17,208 [main] INFO eBanking - Hiiii
+2021-07-08 21:12:17,346 [main] INFO eBanking - Entered user name
+2021-07-08 21:12:17,452 [main] INFO eBanking - Entered password
+2021-07-08 21:12:18,794 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:03:02,598 [main] INFO eBanking - Hiiii
+2021-07-08 22:03:03,127 [main] INFO eBanking - Entered user name
+2021-07-08 22:03:03,226 [main] INFO eBanking - Entered password
+2021-07-08 22:03:04,670 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:05:31,026 [main] INFO eBanking - Hiiii
+2021-07-08 22:05:31,167 [main] INFO eBanking - Entered user name
+2021-07-08 22:05:31,272 [main] INFO eBanking - Entered password
+2021-07-08 22:05:32,519 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:07:22,423 [main] INFO eBanking - Hiiii
+2021-07-08 22:07:22,570 [main] INFO eBanking - Entered user name
+2021-07-08 22:07:22,701 [main] INFO eBanking - Entered password
+2021-07-08 22:07:24,224 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:13:54,271 [main] INFO eBanking - Hiiii
+2021-07-08 22:13:54,427 [main] INFO eBanking - Entered user name
+2021-07-08 22:13:54,531 [main] INFO eBanking - Entered password
+2021-07-08 22:13:56,131 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:17:20,410 [main] INFO eBanking - Hiiii
+2021-07-08 22:17:20,545 [main] INFO eBanking - Entered user name
+2021-07-08 22:17:20,640 [main] INFO eBanking - Entered password
+2021-07-08 22:17:21,901 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:20:11,050 [main] INFO eBanking - Hiiii
+2021-07-08 22:20:11,198 [main] INFO eBanking - Entered user name
+2021-07-08 22:20:11,319 [main] INFO eBanking - Entered password
+2021-07-08 22:20:12,774 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:21:50,538 [main] INFO eBanking - Hiiii
+2021-07-08 22:21:50,673 [main] INFO eBanking - Entered user name
+2021-07-08 22:21:50,785 [main] INFO eBanking - Entered password
+2021-07-08 22:21:52,015 [main] INFO eBanking - Clicked on Login button
+2021-07-08 22:23:55,833 [main] INFO eBanking - Hiiii
+2021-07-08 22:23:55,984 [main] INFO eBanking - Entered user name
+2021-07-08 22:23:56,116 [main] INFO eBanking - Entered password
+2021-07-08 22:23:57,372 [main] INFO eBanking - Clicked on Login button
+2021-07-09 12:53:41,057 [main] INFO eBanking - Entered user name
+2021-07-09 12:53:41,305 [main] INFO eBanking - Entered password
+2021-07-09 12:53:42,501 [main] INFO eBanking - Clicked on Login button
+2021-07-09 13:01:24,132 [main] INFO eBanking - Entered user name
+2021-07-09 13:01:24,249 [main] INFO eBanking - Entered password
+2021-07-09 13:01:25,326 [main] INFO eBanking - Clicked on Login button
+2021-07-09 13:02:03,918 [main] INFO eBanking - Entered user name
+2021-07-09 13:02:04,026 [main] INFO eBanking - Entered password
+2021-07-09 13:02:04,981 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:02:22,556 [main] INFO eBanking - Entered user name
+2021-07-09 14:02:22,657 [main] INFO eBanking - Entered password
+2021-07-09 14:02:23,752 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:20:05,190 [main] INFO eBanking - Entered user name
+2021-07-09 14:20:05,298 [main] INFO eBanking - Entered password
+2021-07-09 14:20:07,086 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:21:44,380 [main] INFO eBanking - Entered user name
+2021-07-09 14:21:44,494 [main] INFO eBanking - Entered password
+2021-07-09 14:21:45,641 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:25:38,808 [main] INFO eBanking - Entered user name
+2021-07-09 14:25:38,928 [main] INFO eBanking - Entered password
+2021-07-09 14:25:40,119 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:26:14,191 [main] INFO eBanking - Entered user name
+2021-07-09 14:26:14,300 [main] INFO eBanking - Entered password
+2021-07-09 14:26:15,282 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:29:40,221 [main] INFO eBanking - Entered user name
+2021-07-09 14:29:40,325 [main] INFO eBanking - Entered password
+2021-07-09 14:29:41,592 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:31:10,742 [main] INFO eBanking - Entered user name
+2021-07-09 14:31:10,850 [main] INFO eBanking - Entered password
+2021-07-09 14:31:11,827 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:33:10,525 [main] INFO eBanking - Entered user name
+2021-07-09 14:33:10,642 [main] INFO eBanking - Entered password
+2021-07-09 14:33:11,677 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:33:18,141 [main] INFO eBanking - Entered user name
+2021-07-09 14:33:18,263 [main] INFO eBanking - Entered password
+2021-07-09 14:33:19,230 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:34:50,410 [main] INFO eBanking - Entered user name
+2021-07-09 14:34:50,527 [main] INFO eBanking - Entered password
+2021-07-09 14:34:51,744 [main] INFO eBanking - Clicked on Login button
+2021-07-09 14:34:57,055 [main] INFO eBanking - Entered user name
+2021-07-09 14:34:57,189 [main] INFO eBanking - Entered password
+2021-07-09 14:34:58,155 [main] INFO eBanking - Clicked on Login button
+2021-07-09 18:49:19,862 [main] INFO eBanking - Entered user name
+2021-07-09 18:49:20,008 [main] INFO eBanking - Entered password
+2021-07-09 18:49:21,236 [main] INFO eBanking - Clicked on Login button
+2021-07-09 18:50:15,350 [main] INFO eBanking - Entered user name
+2021-07-09 18:50:15,444 [main] INFO eBanking - Entered password
+2021-07-09 18:50:16,722 [main] INFO eBanking - Clicked on Login button
+2021-07-09 18:52:49,259 [main] INFO eBanking - Entered user name
+2021-07-09 18:52:49,367 [main] INFO eBanking - Entered password
+2021-07-09 18:52:50,348 [main] INFO eBanking - Clicked on Login button
+2021-07-09 18:52:56,723 [main] INFO eBanking - Entered user name
+2021-07-09 18:52:56,827 [main] INFO eBanking - Entered password
+2021-07-09 18:52:58,707 [main] INFO eBanking - Clicked on Login button
+2021-07-09 19:01:53,492 [main] INFO eBanking - Entered user name
+2021-07-09 19:01:53,617 [main] INFO eBanking - Entered password
+2021-07-09 19:01:54,625 [main] INFO eBanking - Clicked on Login button
+2021-07-09 19:02:55,336 [main] INFO eBanking - Entered user name
+2021-07-09 19:02:55,442 [main] INFO eBanking - Entered password
+2021-07-09 19:02:56,470 [main] INFO eBanking - Clicked on Login button
+2021-07-09 19:03:02,613 [main] INFO eBanking - Entered user name
+2021-07-09 19:03:02,720 [main] INFO eBanking - Entered password
+2021-07-09 19:03:03,754 [main] INFO eBanking - Clicked on Login button
+2021-07-09 19:22:54,431 [main] INFO eBanking - Entered user name
+2021-07-09 19:22:54,571 [main] INFO eBanking - Entered password
+2021-07-09 19:22:55,870 [main] INFO eBanking - Clicked on Login button
+2021-07-09 19:23:06,877 [main] INFO eBanking - Entered user name
+2021-07-09 19:23:06,993 [main] INFO eBanking - Entered password
+2021-07-09 19:23:08,567 [main] INFO eBanking - Clicked on Login button
+2021-07-09 19:46:46,699 [main] INFO eBanking - Entered user name
+2021-07-09 19:46:46,848 [main] INFO eBanking - Entered password
+2021-07-09 19:46:48,118 [main] INFO eBanking - Clicked on Login button
+2021-07-09 19:46:55,542 [main] INFO eBanking - Entered user name
+2021-07-09 19:46:55,675 [main] INFO eBanking - Entered password
+2021-07-09 19:46:57,023 [main] INFO eBanking - Clicked on Login button
+2021-07-09 20:03:15,865 [main] INFO eBanking - Entered user name
+2021-07-09 20:03:15,979 [main] INFO eBanking - Entered password
+2021-07-09 20:03:17,822 [main] INFO eBanking - Clicked on Login button
+2021-07-09 20:03:25,525 [main] INFO eBanking - Entered user name
+2021-07-09 20:03:25,639 [main] INFO eBanking - Entered password
+2021-07-09 20:03:26,935 [main] INFO eBanking - Clicked on Login button
+2021-07-10 12:46:54,704 [main] INFO eBanking - Entered user name
+2021-07-10 12:46:54,939 [main] INFO eBanking - Entered password
+2021-07-10 12:46:56,242 [main] INFO eBanking - Clicked on Login button
+2021-07-10 12:47:13,806 [main] INFO eBanking - Entered user name
+2021-07-10 12:47:14,420 [main] INFO eBanking - Entered password
+2021-07-10 12:47:15,654 [main] INFO eBanking - Clicked on Login button
+2021-07-10 12:49:47,647 [main] INFO eBanking - Entered user name
+2021-07-10 12:49:47,757 [main] INFO eBanking - Entered password
+2021-07-10 12:49:49,108 [main] INFO eBanking - Clicked on Login button
+2021-07-10 12:49:56,762 [main] INFO eBanking - Entered user name
+2021-07-10 12:49:56,879 [main] INFO eBanking - Entered password
+2021-07-10 12:49:57,855 [main] INFO eBanking - Clicked on Login button
+2021-07-10 12:53:32,965 [main] INFO eBanking - Entered user name
+2021-07-10 12:53:33,065 [main] INFO eBanking - Entered password
+2021-07-10 12:53:34,149 [main] INFO eBanking - Clicked on Login button
+2021-07-10 12:53:40,219 [main] INFO eBanking - Entered user name
+2021-07-10 12:53:40,341 [main] INFO eBanking - Entered password
+2021-07-10 12:53:42,340 [main] INFO eBanking - Clicked on Login button
+2021-07-10 13:54:13,966 [main] INFO eBanking - Entered user name
+2021-07-10 13:54:14,078 [main] INFO eBanking - Entered password
+2021-07-10 13:54:15,410 [main] INFO eBanking - Clicked on Login button
+2021-07-10 13:54:25,723 [main] INFO eBanking - Entered user name
+2021-07-10 13:54:25,824 [main] INFO eBanking - Entered password
+2021-07-10 13:54:27,108 [main] INFO eBanking - Clicked on Login button
+2021-07-10 13:55:53,488 [main] INFO eBanking - Entered user name
+2021-07-10 13:55:53,603 [main] INFO eBanking - Entered password
+2021-07-10 13:55:54,580 [main] INFO eBanking - Clicked on Login button
+2021-07-10 13:56:05,053 [main] INFO eBanking - Entered user name
+2021-07-10 13:56:05,159 [main] INFO eBanking - Entered password
+2021-07-10 13:56:06,303 [main] INFO eBanking - Clicked on Login button
+2021-07-10 14:03:35,190 [main] INFO eBanking - Entered user name
+2021-07-10 14:03:35,305 [main] INFO eBanking - Entered password
+2021-07-10 14:03:36,461 [main] INFO eBanking - Clicked on Login button
+2021-07-10 14:03:43,769 [main] INFO eBanking - Entered user name
+2021-07-10 14:03:43,882 [main] INFO eBanking - Entered password
+2021-07-10 14:03:44,859 [main] INFO eBanking - Clicked on Login button

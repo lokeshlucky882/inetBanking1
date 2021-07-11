@@ -1,0 +1,11 @@
+com\inetBanking\pageObjects\NewCustomerPage.class
+com\inetBanking\utilitis\XLUtility.class
+com\inetBanking\testCases\ManagerHomePageTest.class
+com\inetBanking\utilitis\ReadConfig.class
+com\inetBanking\utilitis\ReportingListener.class
+com\inetBanking\testCases\TC_LoginPageTest.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\testCases\NewCustomerPageTest.class
+com\inetBanking\testCases\TC_LoginDDTTest.class
+com\inetBanking\pageObjects\ManagerHomePage.class
+com\inetBanking\testCases\Base.class
